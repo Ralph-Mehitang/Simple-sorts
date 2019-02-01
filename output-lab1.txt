@@ -1,0 +1,81 @@
+How many numbers total do you want to be generated in array?
+15
+Which sort would you like to use? (1 for bubble, 2 for insertion,3 for selection)
+1
+Original Array
+84 87 78 16 94 36 87 93 50 22 63 28 91 60 64 it took 57 swaps
+
+Now this is the sorted array:
+16 22 28 36 50 60 63 64 78 84 87 87 91 93 94 it took 0 swaps
+finished at Tue Sep 11 11:57:15 2018
+elapsed time: 0.000202s
+
+array has been sorted
+rmehitang@Ralph:/mnt/c/users/ralph/desktop/cosc-320/lab1/src$ ./a.out
+How many numbers total do you want to be generated in array?
+100
+Which sort would you like to use? (1 for bubble, 2 for insertion,3 for selection)
+1
+Original Array
+84 87 78 16 94 36 87 93 50 22 63 28 91 60 64 27 41 27 73 37 12 69 68 30 83 31 63 24 68 36 30 3 23 59 70 68 94 57 12 43 30 74 22 20 85 38 99 25 16 71 14 27 92 81 57 74 63 71 97 82 6 26 85 28 37 6 47 30 14 58 25 96 83 46 15 68 35 65 44 51 88 9 77 79 89 85 4 52 55 100 33 61 77 69 40 13 27 87 95 40 it took 2438 swaps
+
+Now this is the sorted array:
+3 4 6 6 9 12 12 13 14 14 15 16 16 20 22 22 23 24 25 25 26 27 27 27 27 28 28 30 30 30 30 31 33 35 36 36 37 37 38 40 40 41 43 44 46 47 50 51 52 55 57 57 58 59 60 61 63 63 63 64 65 68 68 68 68 69 69 70 71 71 73 74 74 77 77 78 79 81 82 83 83 84 85 85 85 87 87 87 88 89 91 92 93 94 94 95 96 97 99 100 it took 0 swaps
+finished at Tue Sep 11 11:57:21 2018
+elapsed time: 0.0001685s
+
+array has been sorted
+rmehitang@Ralph:/mnt/c/users/ralph/desktop/cosc-320/lab1/src$ ./a.out
+How many numbers total do you want to be generated in array?
+100
+Which sort would you like to use? (1 for bubble, 2 for insertion,3 for selection)
+2
+Original Array
+84 87 78 16 94 36 87 93 50 22 63 28 91 60 64 27 41 27 73 37 12 69 68 30 83 31 63 24 68 36 30 3 23 59 70 68 94 57 12 43 30 74 22 20 85 38 99 25 16 71 14 27 92 81 57 74 63 71 97 82 6 26 85 28 37 6 47 30 14 58 25 96 83 46 15 68 35 65 44 51 88 9 77 79 89 85 4 52 55 100 33 61 77 69 40 13 27 87 95 40 it took 2438 swaps
+
+Now this is the sorted array:
+3 4 6 6 9 12 12 13 14 14 15 16 16 20 22 22 23 24 25 25 26 27 27 27 27 28 28 30 30 30 30 31 33 35 36 36 37 37 38 40 40 41 43 44 46 47 50 51 52 55 57 57 58 59 60 61 63 63 63 64 65 68 68 68 68 69 69 70 71 71 73 74 74 77 77 78 79 81 82 83 83 84 85 85 85 87 87 87 88 89 91 92 93 94 94 95 96 97 99 100 it took 0 swaps
+finished at Tue Sep 11 11:57:37 2018
+elapsed time: 0.0013586s
+
+array has been sorted
+rmehitang@Ralph:/mnt/c/users/ralph/desktop/cosc-320/lab1/src$ ./a.out
+How many numbers total do you want to be generated in array?
+10
+Which sort would you like to use? (1 for bubble, 2 for insertion,3 for selection)
+2
+Original Array
+84 87 78 16 94 36 87 93 50 22 it took 25 swaps
+
+Now this is the sorted array:
+16 22 36 50 78 84 87 87 93 94 it took 0 swaps
+finished at Tue Sep 11 11:57:43 2018
+elapsed time: 9.55e-05s
+
+array has been sorted
+rmehitang@Ralph:/mnt/c/users/ralph/desktop/cosc-320/lab1/src$ ./a.out
+How many numbers total do you want to be generated in array?
+100
+Which sort would you like to use? (1 for bubble, 2 for insertion,3 for selection)
+3
+Original Array
+84 87 78 16 94 36 87 93 50 22 63 28 91 60 64 27 41 27 73 37 12 69 68 30 83 31 63 24 68 36 30 3 23 59 70 68 94 57 12 43 30 74 22 20 85 38 99 25 16 71 14 27 92 81 57 74 63 71 97 82 6 26 85 28 37 6 47 30 14 58 25 96 83 46 15 68 35 65 44 51 88 9 77 79 89 85 4 52 55 100 33 61 77 69 40 13 27 87 95 40 it took 4950 swaps
+
+Now this is the sorted array:
+3 6 6 9 12 12 13 4 14 14 15 16 16 20 22 22 23 24 25 25 26 27 27 27 28 28 30 30 30 30 31 33 35 36 36 37 37 38 40 40 27 41 43 44 46 47 50 51 52 55 57 57 58 59 60 61 63 63 63 64 65 68 68 68 68 69 69 70 71 71 73 74 74 77 77 78 79 81 82 83 83 84 85 85 85 87 87 87 88 89 91 92 93 94 94 95 96 97 99 100 it took 4950 swaps
+finished at Tue Sep 11 11:57:54 2018
+elapsed time: 0.0002448s
+
+rmehitang@Ralph:/mnt/c/users/ralph/desktop/cosc-320/lab1/src$ ./a.out
+How many numbers total do you want to be generated in array?
+50
+Which sort would you like to use? (1 for bubble, 2 for insertion,3 for selection)
+3
+Original Array
+84 87 78 16 94 36 87 93 50 22 63 28 91 60 64 27 41 27 73 37 12 69 68 30 83 31 63 24 68 36 30 3 23 59 70 68 94 57 12 43 30 74 22 20 85 38 99 25 16 71 it took 1225 swaps
+
+Now this is the sorted array:
+3 12 16 20 12 22 22 23 24 25 27 27 28 30 30 30 31 36 36 37 38 41 43 50 57 59 60 63 63 64 68 68 68 69 70 71 16 73 74 78 84 83 85 87 87 91 93 94 94 99 it took 1225 swaps
+finished at Tue Sep 11 11:58:04 2018
+elapsed time: 0.0005576s
+
