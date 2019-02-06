@@ -41,6 +41,24 @@
 		cout<< "it took "<< count<<" swaps" <<endl;
 
 	}
+	void labsort::revbubblesort(int* arr, int len){
+		int i, j;
+		int count=0; //count how many sorting iterations took place.
+		for (i = 0; i < len-1; i++)	 {
+			// Last i elements are already in place 
+			for (j = 0; j < len-i-1; j++)
+			{	
+				if (arr[j] < arr[j+1])
+				{
+					swap(&arr[j], &arr[j+1]);
+					count++;
+				}
+			}
+			
+		}
+		cout<< "it took "<< count<<" swaps" <<endl;
+
+	}
 	//insertion sort function
 	void labsort :: insertionsort(int *arr, int len){
 		int i, j;

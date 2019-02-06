@@ -10,6 +10,7 @@ public:
 	void swap(int*, int*);
     void printarr(int*,int);
 	void bubbleSort(int*, int);
+	void revbubblesort(int*,int);
 	void insertionsort(int*, int);
 	void selectsort(int*,int);
 	int sortedarr(int*,int);
